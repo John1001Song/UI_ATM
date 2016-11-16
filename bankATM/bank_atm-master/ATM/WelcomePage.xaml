@@ -1,0 +1,16 @@
+﻿<Page x:Class="ATM.WelcomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ATM"
+      mc:Ignorable="d"
+      Title="WelcomePage" Height="446" Width="559">
+
+    <Grid>
+        <TextBlock x:Name="textBlock" Margin="206,31,-50,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Segoe UI Black" Height="88" FontSize="32" Foreground="#FF3C3902"><Run Text="Welcome"/><LineBreak/><Run Text="Bienvenue"/></TextBlock>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="10,164,0,132" TextWrapping="Wrap" VerticalAlignment="Center" Height="150" Width="358" FontFamily="Segoe UI Black" FontSize="48" Foreground="#FFFFE908"><Run Text="Jack &amp; John"/><LineBreak/><Run Text="Finicial Group"/></TextBlock>
+        <Button x:Name="welcomePage_enter" Content="ENTER" Margin="366,354,99,42" Width="94" FontFamily="Segoe UI Semibold" FontSize="16" BorderBrush="#FF787878" Background="#FFDEFFC8" Click="button_enter_Click" HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" BorderThickness="4"/>
+
+    </Grid>
+</Page>
