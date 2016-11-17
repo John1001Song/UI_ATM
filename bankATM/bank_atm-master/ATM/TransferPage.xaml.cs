@@ -221,7 +221,7 @@ namespace ATM
                         else
                         {
                             System.Windows.MessageBox.Show("Failed. You don't have sufficient balance!");
-                            service.GoBack();
+                            this.num_screen.Text = "";
 
                         }
 
