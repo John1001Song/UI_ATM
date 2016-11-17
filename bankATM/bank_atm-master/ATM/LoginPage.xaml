@@ -24,9 +24,8 @@
         <Button x:Name="button_ok" Click="button_ok_Click" Content="OK" HorizontalAlignment="Left" Margin="500,360,0,0" VerticalAlignment="Top" Width="110" Height="68"  FontSize="26.667" BorderThickness="4" FontFamily="Segoe UI Black" Background="#FF28C728"/>
         <Button x:Name="button_home" Content="Home" HorizontalAlignment="Left" Margin="46,438,0,0" VerticalAlignment="Top" Width="77" Height="46" Click="button_home_Click" FontSize="21.333" BorderThickness="4" FontFamily="Segoe UI Black"/>
         <Button x:Name="button_clr" Click="button_clr_Click" Content="CLR" HorizontalAlignment="Left" Margin="500,171,0,0" VerticalAlignment="Top" Width="110" Height="64"  FontSize="26.667" BorderThickness="4" FontFamily="Segoe UI Black" Background="#FFF1F152"/>
-        <Button x:Name="button_numNull" Click="button8_Click" Content="" HorizontalAlignment="Left" Margin="287,378,0,0" VerticalAlignment="Top" Width="70" Height="64"  FontSize="26.667" BorderThickness="4" FontFamily="Segoe UI Semibold"/>
-        <Button x:Name="button_num00" Click="button00_Click" Content="00" HorizontalAlignment="Left" Margin="362,378,0,0" VerticalAlignment="Top" Width="70" Height="64"  FontSize="26.667" BorderThickness="4" FontFamily="Segoe UI Semibold"/>
-        <Button x:Name="button_num0" Click="button0_Click" Content="0" HorizontalAlignment="Left" Margin="212,378,0,0" VerticalAlignment="Top" Width="70" Height="64"  FontSize="26.667" BorderThickness="4" FontFamily="Segoe UI Semibold"/>
+        <Button x:Name="button_num00" Click="button00_Click" Content="00" HorizontalAlignment="Left" Margin="321,378,0,0" VerticalAlignment="Top" Width="111" Height="64"  FontSize="26.667" BorderThickness="4" FontFamily="Segoe UI Semibold"/>
+        <Button x:Name="button_num0" Click="button0_Click" Content="0" HorizontalAlignment="Left" Margin="212,378,0,0" VerticalAlignment="Top" Width="104" Height="64"  FontSize="26.667" BorderThickness="4" FontFamily="Segoe UI Semibold"/>
 
     </Grid>
 </Page>

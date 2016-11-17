@@ -165,20 +165,24 @@ namespace ATM
                             this.num_screen.Text = "";
                         }
 
-                        else if (Database.contains(toAccNum))
+                        else
                         {
                             this.top_label.Content = "Please enter an amount to transfer:";
                             this.num_screen.Text = "";
                             this.transferStage = TransferStage.AMOUNT;
                             this.button_dot.IsEnabled = true;
                         }
-                        else
-                        {
-                            System.Windows.MessageBox.Show("Unknown account!");
-                            this.num_screen.Text = "";
-                        }
-
                     }
+                    else
+                    {
+                        System.Windows.MessageBox.Show("Unknown account!");
+                        this.num_screen.Text = "";
+                    }
+                }
+                else
+                {
+                    System.Windows.MessageBox.Show("Account number can not be empty!");
+
                 }
 
 
@@ -205,11 +209,21 @@ namespace ATM
                                                        "Delete Confirmation", 
                                                        System.Windows.MessageBoxButton.YesNo);
                     if (messageBoxResult == MessageBoxResult.Yes)
-                    {
-                        Globals.loginAccount.transfer(amount, this.toAccount);
-                        System.Windows.MessageBox.Show("Sucess, press OK to go to home page");
+                    {   
                         NavigationService service =  NavigationService.GetNavigationService(this);
-                        service.GoBack();
+
+                        if (Globals.loginAccount.balance >= amount)
+                        {
+                            Globals.loginAccount.transfer(amount, this.toAccount);
+                            System.Windows.MessageBox.Show("Sucess, press OK to go to home page");
+                            service.GoBack();
+                        }
+                        else
+                        {
+                            System.Windows.MessageBox.Show("Failed. You don't have sufficient balance!");
+                            service.GoBack();
+
+                        }
 
                     }
 

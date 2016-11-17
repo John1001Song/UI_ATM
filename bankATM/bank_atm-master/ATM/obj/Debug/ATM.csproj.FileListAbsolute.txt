@@ -1,58 +1,30 @@
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\bin\Debug\ATM.exe.config
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\bin\Debug\ATM.exe
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\bin\Debug\ATM.pdb
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\MainWindow.g.cs
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\App.g.cs
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM_MarkupCompile.cache
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM_MarkupCompile.lref
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\MainWindow.baml
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.g.resources
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.exe
-c:\users\jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\ATM.pdb
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\MainMenu.g.cs
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\MainMenu.baml
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\LoginPage.g.cs
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\LoginPage.baml
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\Balance_view.g.cs
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\Balance_view.baml
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\History.g.cs
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\History.baml
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\WithdrawPage.g.cs
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\WithdrawPage.baml
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\DepositPage.g.cs
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\DepositPage.baml
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\TransferPage.g.cs
-C:\Users\Jack\documents\visual studio 2015\Projects\ATM\ATM\obj\Debug\TransferPage.baml
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\bin\Debug\ATM.exe.config
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\ATM.exe
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\ATM.pdb
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\bin\Debug\ATM.exe
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\bin\Debug\ATM.pdb
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\Balance_view.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\DepositPage.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\History.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\LoginPage.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\MainMenu.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\MainWindow.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\TransferPage.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\WithdrawPage.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\App.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\ATM_MarkupCompile.cache
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\ATM_MarkupCompile.lref
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\Balance_view.baml
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\DepositPage.baml
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\History.baml
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\LoginPage.baml
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\MainMenu.baml
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\MainWindow.baml
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\TransferPage.baml
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\WithdrawPage.baml
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\ATM.g.resources
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\ATM.Properties.Resources.resources
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\WelcomePage.g.cs
-C:\Users\Jinyue\Desktop\bank_atm-master (1)\bank_atm-master\ATM\obj\Debug\WelcomePage.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\bin\Debug\ATM.exe.config
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\bin\Debug\ATM.exe
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\bin\Debug\ATM.pdb
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\Balance_view.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\DepositPage.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\History.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\LoginPage.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\MainMenu.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\MainWindow.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\TransferPage.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\WelcomePage.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\WithdrawPage.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\App.g.cs
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\ATM_MarkupCompile.cache
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\ATM_MarkupCompile.lref
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\Balance_view.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\DepositPage.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\History.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\LoginPage.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\MainMenu.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\MainWindow.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\TransferPage.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\WelcomePage.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\WithdrawPage.baml
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\ATM.g.resources
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\ATM.exe
+C:\Users\Jack\Downloads\UI_ATM\bankATM\bank_atm-master\ATM\obj\Debug\ATM.pdb

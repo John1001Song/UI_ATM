@@ -44,9 +44,9 @@ namespace ATM
             }
             else
             {
-                if (i == 00)
+                if (i == 11)
                 {
-                    this.num_screen.Text = this.num_screen.Text + i + i;
+                    this.num_screen.Text = this.num_screen.Text + 0 + 0;
                 }
                 else
                 {
@@ -112,7 +112,7 @@ namespace ATM
 
         private void button00_Click(object sender, RoutedEventArgs e)
         {
-            num_button_click(00);
+            num_button_click(11);
         }
 
         private void button_del_Click(object sender, RoutedEventArgs e)
@@ -170,6 +170,10 @@ namespace ATM
                     }
 
                 }
+            }
+            else
+            {
+                System.Windows.MessageBox.Show("Account number can not be empty!");
             }
 
 
