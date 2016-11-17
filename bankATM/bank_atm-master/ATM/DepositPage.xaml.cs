@@ -30,7 +30,7 @@ namespace ATM
         {
             if (this.num_screen.Text.Length >= Globals.max_account_bits)
             {
-                System.Windows.MessageBox.Show("Your account number is incorrect.");
+                System.Windows.MessageBox.Show("Please enter a number with less than 14 digits");
             }
             else
             {
